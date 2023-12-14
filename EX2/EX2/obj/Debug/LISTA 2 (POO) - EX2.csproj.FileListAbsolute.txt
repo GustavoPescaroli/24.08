@@ -1,0 +1,2 @@
+C:\Users\gusta\source\repos\LISTA 2 (POO) - EX2\LISTA 2 (POO) - EX2\obj\Debug\LISTA 2 (POO) - EX2.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\LISTA 2 (POO) - EX2\LISTA 2 (POO) - EX2\obj\Debug\LISTA 2 (POO) - EX2.csproj.CoreCompileInputs.cache
